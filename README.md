@@ -14,13 +14,13 @@
 
 *OVERVIEW* :
 
-Project Overview
+Project Overview : 
 The project involves using a push button to increment a counter.
 A temperature sensor reads the current temperature.
 The temperature data is displayed on an LCD screen or a serial monitor.
 Deliverables include circuit design, code, and output demonstration.
 
-Components Required
+Components Required : 
 1)Microcontroller (Arduino Uno, ESP8266, or ESP32)
 2)Push Button
 3)Resistor (10kΩ for pull-down configuration)
@@ -29,7 +29,7 @@ Components Required
 6)Breadboard & Jumper Wires
 7)Power Source (5V)
 
-Uses and Applications:
+Uses and Applications : 
 Learning Embedded Systems – Helps in understanding microcontroller programming, sensor interfacing, and display control.
 Digital Event Counting – Can be used in places where counting button presses (e.g., attendance tracking, object counting) is required.
 Temperature Monitoring – Useful in applications where temperature readings need to be continuously monitored.
