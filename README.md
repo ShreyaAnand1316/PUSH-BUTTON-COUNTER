@@ -35,3 +35,7 @@ Digital Event Counting – Can be used in places where counting button presses (
 Temperature Monitoring – Useful in applications where temperature readings need to be continuously monitored.
 IoT and Automation – Can be extended by integrating with WiFi modules (ESP8266/ESP32) for remote monitoring.
 Industry and Research – Used for tracking events along with environmental monitoring in various experiments.
+
+#OUTPUT
+
+<img width="347" alt="Image" src="https://github.com/user-attachments/assets/bd21a04d-17bb-4cd7-87b9-92354815c0a2" />
