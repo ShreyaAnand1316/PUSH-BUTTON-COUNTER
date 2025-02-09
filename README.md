@@ -15,26 +15,36 @@
 *OVERVIEW* :
 
 Project Overview : 
-The project involves using a push button to increment a counter.
-A temperature sensor reads the current temperature.
-The temperature data is displayed on an LCD screen or a serial monitor.
-Deliverables include circuit design, code, and output demonstration.
+The Push Button Counter with LCD Display project is a simple embedded system that tracks the number of button presses and displays the count on a 16x2 LCD. It utilizes a microcontroller, a push button, and an LCD display to visually represent the number of button presses. The system is designed to detect button presses accurately using debounce logic and provides real-time feedback.
+
 
 Components Required : 
-1)Microcontroller (Arduino Uno, ESP8266, or ESP32)
-2)Push Button
-3)Resistor (10kΩ for pull-down configuration)
-4)Temperature Sensor (e.g., LM35, DHT11, or DS18B20)
-5)LCD Display (16x2 LCD with I2C module or OLED)
-6)Breadboard & Jumper Wires
-7)Power Source (5V)
+
+1)Microcontroller: Arduino Nano (or any similar microcontroller with digital I/O support).
+
+2)Push Button: For user input.
+
+3)Resistor (510kΩ): For pull-down configuration to stabilize button input.
+
+4)16x2 LCD Display: Used to display the button count.
+
+5)Connecting Wires: To establish connections between components.
+
+6)Breadboard: For prototyping and testing the circuit.
+
+
 
 Uses and Applications : 
-Learning Embedded Systems – Helps in understanding microcontroller programming, sensor interfacing, and display control.
-Digital Event Counting – Can be used in places where counting button presses (e.g., attendance tracking, object counting) is required.
-Temperature Monitoring – Useful in applications where temperature readings need to be continuously monitored.
-IoT and Automation – Can be extended by integrating with WiFi modules (ESP8266/ESP32) for remote monitoring.
-Industry and Research – Used for tracking events along with environmental monitoring in various experiments.
+
+-Learning Embedded Systems – Helps in understanding microcontroller programming, sensor interfacing, and display control.
+
+-Digital Event Counting – Can be used in places where counting button presses (e.g., attendance tracking, object counting) is required.
+-Temperature Monitoring – Useful in applications where temperature readings need to be continuously monitored.
+
+-IoT and Automation – Can be extended by integrating with WiFi modules (ESP8266/ESP32) for remote monitoring.
+
+-Industry and Research – Used for tracking events along with environmental monitoring in various experiments.
+
 
 #OUTPUT
 
